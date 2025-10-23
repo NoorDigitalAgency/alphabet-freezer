@@ -1,4 +1,4 @@
 {
-  "Domains": ["test.com", "x"],
+  "Domains": ["test.com", "x", "https://haha.com/you?fsdf"],
   "Urls": ["hehe", "https://google.com/"]
 }
